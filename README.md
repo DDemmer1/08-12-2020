@@ -12,9 +12,7 @@ Erstellt eine Klasse ```Util```. Befüllt die Klasse mit mehreren kleinen ```sta
    
    Bsp.: Methode bekommt 5 übergeben und gibt euch 15 zurück (1+2+3+4+5)
  
-⚠️ Advanced
-
-3. Programmiert eine Methode die je nach Argumenten ein Feld von * ausgibt.
+3. ⚠️ Advanced: Programmiert eine Methode die je nach Argumenten ein Feld von * ausgibt.
 
 Bsp.: Die Methode bekommt 6 und 4 übergeben und erzeugt in der Konsole dieses Feld ( 6 breit und 4 hoch):
 
