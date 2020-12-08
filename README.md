@@ -4,11 +4,11 @@
 
 ### 📝 Aufgabe:
 
-Erstellt eine Klasse ```Util```. Befüllt die Klasse mit mehreren kleinen ```static``` Hilfsmethoden, die ihr überall im Projekt ausführen könnt ohne ein Objekt dieser Klasse zu erzeugen. Die Wahl der Schleifen ist euch überlassen.
+Erstellt eine Klasse ```Util```. Befüllt die Klasse mit mehreren kleinen ```static``` "Hilfsmethoden", die ihr überall im Projekt ausführen könnt ohne ein Objekt dieser Klasse zu erzeugen. Die Wahl der Schleifen ist euch überlassen.
 
 1. Programmiert eine Methode die euch die Zahlen von 1 bis ```int i``` in der Konsole ausgibt.  ```int i``` ist dabei der Parameter der Methode
 
-2. Programmiert eine Methode die euch die Summer aller Zahlen von 1  bis ```int i``` über einen Rückgabewert zurückgibt. ```int i``` ist dabei wieder der Parameter der Methode
+2. Programmiert eine Methode die euch die Summe aller Zahlen von 1  bis ```int i``` über einen Rückgabewert zurückgibt. ```int i``` ist dabei wieder der Parameter der Methode
    
    Bsp.: Methode bekommt 5 übergeben und gibt euch 15 zurück (1+2+3+4+5)
  
