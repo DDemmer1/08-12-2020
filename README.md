@@ -4,7 +4,7 @@
 
 ### 📝 Aufgabe:
 
-Erstellt eine Klasse ```Util```. Befüllt die Klasse mit mehreren kleinen ```static``` Hilfsmethoden, die ihr überall im Projekt ausführen könnt ohne ein Objekt dieser Klasse zu erzeugen.
+Erstellt eine Klasse ```Util```. Befüllt die Klasse mit mehreren kleinen ```static``` Hilfsmethoden, die ihr überall im Projekt ausführen könnt ohne ein Objekt dieser Klasse zu erzeugen. Die Wahl der Schleifen ist euch überlassen.
 
 1. Programmiert eine Methode die euch die Zahlen von 1 bis ```int i``` in der Konsole ausgibt.  ```int i``` ist dabei der Parameter der Methode
 
@@ -25,6 +25,8 @@ Bsp.: Die Methode bekommt 6 und 4 übergeben und erzeugt in der Konsole dieses F
 ```*  *  *  *  *  * ```
 
 ```*  *  *  *  *  * ```
+Tipp: ```System.out.print()```(ohne 'ln') erzeugt keinen Zeilenumbruch. Die Ausgaben werden einfach hintereinander geschrieben.
+```System.out.println()``` schreibt jede Ausgabe in eine neue Zeile.
 
 
 
