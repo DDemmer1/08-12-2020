@@ -25,7 +25,9 @@ Bsp.: Die Methode bekommt 6 und 4 übergeben und erzeugt in der Konsole dieses F
 ```*  *  *  *  *  * ```
 
 ```*  *  *  *  *  * ```
-Tipp: ```System.out.print()```(ohne 'ln') erzeugt keinen Zeilenumbruch. Die Ausgaben werden einfach hintereinander geschrieben.
+
+
+ ℹ️ Tipp: ```System.out.print()```(ohne 'ln') erzeugt keinen Zeilenumbruch. Die Ausgaben werden einfach hintereinander geschrieben.
 ```System.out.println()``` schreibt jede Ausgabe in eine neue Zeile.
 
 
