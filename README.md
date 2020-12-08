@@ -18,13 +18,13 @@ Erstellt eine Klasse ```Util```. Befüllt die Klasse mit mehreren kleinen ```sta
 
 Bsp.: Die Methode bekommt 6 und 4 übergeben und erzeugt in der Konsole dieses Feld
 
-```* * * * * * ```
+```*  *  *  *  *  * ```
 
-```* * * * * * ```
+```*  *  *  *  *  * ```
 
-```* * * * * * ```
+```*  *  *  *  *  * ```
 
-```* * * * * * ```
+```*  *  *  *  *  * ```
 
 
 
